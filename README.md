@@ -1,7 +1,7 @@
 # 这个DeMo是我在学习Vue2项目的项目
 ## 您可以查看我的Vue2的笔记
-![Vue笔记](https://github.com/NewCicada/Punchinevery_day/tree/main/%E7%AC%94%E8%AE%B0)
-
+[Vue2(不依赖脚手架)](https://github.com/NewCicada/Punchinevery_day/tree/main/%E7%AC%94%E8%AE%B0/Vue(%E4%B8%8D%E4%BE%9D%E8%B5%96%E8%84%9A%E6%89%8B%E6%9E%B6))
+[Vue2(依赖脚手架)](https://github.com/NewCicada/Punchinevery_day/tree/main/%E7%AC%94%E8%AE%B0/Vue(%E4%BE%9D%E8%B5%96%E8%84%9A%E6%89%8B%E6%9E%B6))
 ## 脚手架文件结构
 
 	├── node_modules 
